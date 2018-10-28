@@ -1,0 +1,11 @@
+{
+	"skin":
+	{
+		"id": "origin",
+		"settings":
+		{
+			"font_face": "scientifica",
+			"font_size": 10,
+		}
+	}
+}

@@ -1,0 +1,5 @@
+taskwarrior/.task/*.data
+ranger/.config/ranger/bookmarks
+ranger/.config/ranger/history
+ranger/.config/ranger/tagged
+ssh/.ssh/known_hosts

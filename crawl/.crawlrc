@@ -1,0 +1,10 @@
+include = ibm_glyphs.txt
+
+rest_delay=-1
+autofight_stop = 50
+autofight_warning = 100
+auto_butcher = true
+show_player_species = true
+equip_bar = true
+travel_delay = -1
+show_travel_trail = true

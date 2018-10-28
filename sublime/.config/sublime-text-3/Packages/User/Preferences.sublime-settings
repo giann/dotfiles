@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/DA UI/DA Light.tmTheme",
+	"font_face": "scientifica",
+	"font_options":
+	[
+		"no_italic"
+	],
+	"font_size": 8,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"skin": "DA UI/Origin",
+	"theme": "DA.sublime-theme"
+}

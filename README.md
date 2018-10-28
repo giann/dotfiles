@@ -1,9 +1,29 @@
-# linux-dotfiles
-dotfiles for debian
+# dotfiles
 
-## termite
-- Install termite: https://gist.github.com/crivotz/d4e43ebce09621906571f3720e676781
+<p align="center">
+    <img src="https://github.com/giann/dotfiles/raw/master/screen.png">
+</p>
 
-## fonts
-- Enable bitmap fonts: `sudo rm /etc/fonts/conf.d/70-no-bitmaps.conf`
-- Then copy fonts to `/home/giann/.fonts/`
+## How to use
+
+Use [GNU Stow](https://www.gnu.org/software/stow/) to apply what you need:
+
+```bash
+stow awesome
+```
+
+## Included
+
+- Awesome WM
+- Compton
+- DCSS
+- Fonts
+- gnome, gtk & X themes
+- ncmpcpp
+- neovim
+- ranger
+- sublime text
+- termite
+- tig
+- tmux
+- zsh + oh-my-zsh
